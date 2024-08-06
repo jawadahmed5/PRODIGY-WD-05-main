@@ -33,8 +33,8 @@
     background-color: #151538;
     z-index: -1;
     border-radius: 50%;
-	left: -33%;
-    top: -133%;
+	left: -40%;
+    top: -114%;
     animation-name: shine;
     animation-duration: 3s;
     animation-iteration-count: infinite;
